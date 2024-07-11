@@ -1,0 +1,22 @@
+---
+title: "Your Name"
+about:
+  id: hero-heading
+  template: jolla
+  image: assets/profile-pic.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hello@abc.xyz
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: file-pdf
+      text: Resume
+      file: assets/resume.pdf
+---
+
+Insert bio. Welcome to my website...

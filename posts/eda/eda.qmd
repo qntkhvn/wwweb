@@ -1,0 +1,23 @@
+---
+title: "EDA"
+description: "One sentence description"
+date: May 2022
+about:
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com
+    - icon: laptop
+      text: "Slides"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf 
+    - icon: files
+      text: "Poster"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
+    - icon: pencil
+      text: "Report"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

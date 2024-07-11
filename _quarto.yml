@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: file-pdf
+        href: assets/resume.pdf
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com
+
+format:
+  html:
+    theme: 
+      - default
+      - custom.scss
+    # backgroundcolor: lightgray
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,25 @@
+---
+title: "Capstone"
+description: "One sentence description"
+date: July 2024
+about:
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com
+    - icon: laptop
+      text: "Slides"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
+    - icon: files
+      text: "Poster"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
+    - icon: pencil
+      text: "Report"
+      href: https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/QuangNguyen.pdf
+---
+
+Description of capstone project
+
+Hello
